@@ -98,37 +98,6 @@ The project demonstrates practical embedded software development concepts includ
 
 ---
 
-# Folder Structure
-
-```
-ESP32-IoT-Temperature-Logger/
-
-├── main/
-│   └── main.c
-│
-├── components/
-│   ├── ds18b20/
-│   └── ssd1306/
-│
-├── images/
-│   ├── hardware_setup.jpg
-│   ├── oled_display.jpg
-│   ├── serial_monitor.png
-│   └── mqtt_client.png
-│
-├── docs/
-│   ├── architecture.png
-│   ├── circuit_diagram.png
-│   └── flowchart.png
-│
-├── videos/
-│   └── demo.mp4
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-└── sdkconfig.defaults
-```
 
 # Configuration
 
