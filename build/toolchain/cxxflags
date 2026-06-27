@@ -1,7 +1,0 @@
--Wno-frame-address
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero
-"-specs=C:/Users/omkar/esp32/workspace/Temp_Logger_OLED_MQTT/build/specs/picolibc.specs"
--fno-rtti
